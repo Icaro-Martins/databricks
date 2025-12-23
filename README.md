@@ -25,10 +25,11 @@ O objetivo é demonstrar **como penso, organizo e implemento pipelines de dados 
 │   ├── 🥉 source_bronze/   # Ingestão de dados brutos
 │   ├── 🥈 bronze_silver/   # Transformações e Limpeza dos dados
 │   ├── 🥇 silver_gold/     # Camada de enriquecimento
-|   ├── ❄️ snowflake/       # Projetos focados em Snowflake (ELT, consumo, otimização)
-|   ├── 🧱 data_products/   # Outros projetos que não foram necessário usar a arquitetura Medallion
 │   └── 🧰 utils/           # Funções e componentes reutilizáveis 
 │
+├── ❄️ snowflake/       # Projetos focados em Snowflake (ELT, consumo, otimização)
+├── 🧱 data_products/   # Outros projetos que não foram necessário usar a arquitetura Medallion
+|
 └── 🗂️ docs/
     └── 📘 notebooks_html/  # Usados para exibir nos wiki para projetos de referencia
 ```
