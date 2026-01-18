@@ -1,4 +1,4 @@
-# 🚀 Implementações Técnicas
+# 🚀 Technical Implementations
 
 Este branch contém **códigos, estudos aplicados e projetos práticos em Engenharia de Dados**, com foco em **boas práticas, arquitetura Lakehouse e soluções escaláveis em cloud**.
 
