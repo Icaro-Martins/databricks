@@ -21,15 +21,15 @@ This goals is to demonstrate **how I think about, organize and implement pipelin
 │   ├── 🧮 sql/
 │   ├── 🔥 spark/
 │
-├── 🚀 projetos/
-│   ├── 🥉 source_bronze/   # Ingestão de dados brutos
-│   ├── 🥈 bronze_silver/   # Transformações e Limpeza dos dados
-│   ├── 🥇 silver_gold/     # Camada de enriquecimento
-│   └── 🧰 utils/           # Funções e componentes reutilizáveis 
+├── 🚀 projects/
+│   ├── 🥉 source_bronze/   # Raw data ingestion.
+│   ├── 🥈 bronze_silver/   # Data transformation and cleansing.
+│   ├── 🥇 silver_gold/     # Enrichmant layer.
+│   └── 🧰 utils/           # Reusable funtions and components.
 │
-├── ❄️ snowflake/       # Projetos focados em Snowflake (ELT, consumo, otimização)
-├── 🧱 data_products/   # Outros projetos que não foram necessário usar a arquitetura Medallion
+├── ❄️ snowflake/           # Projects focused on snowflake (ETL, consumption and optimization).
+├── 🧱 data_products/       # Ohter projects that not did not require the user of Medallion Architecture.
 |
 └── 🗂️ docs/
-    └── 📘 notebooks_html/  # Usados para exibir nos wiki para projetos de referencia
+    └── 📘 notebooks_html/  # Used for display in wiki to reference projects.
 ```
