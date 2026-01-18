@@ -1,18 +1,18 @@
 # 🚀 Technical Implementations
 
-Este branch contém **códigos, estudos aplicados e projetos práticos em Engenharia de Dados**, com foco em **boas práticas, arquitetura Lakehouse e soluções escaláveis em cloud**.
+This branch conteins **code, spplied studies and pratical projects in data engineer**, with focus in **good pratices, lakehouse architecture and scalable cloud soluctions.
 
-O objetivo é demonstrar **como penso, organizo e implemento pipelines de dados em cenários reais**.
+This goals is to demonstrate **how I think about, organize and implement pipelines in real world scenarios**
 
-## 🧠 O que você encontrará aqui
+## 🧠 What you will finde here
 
-- Pipelines de dados **batch e streaming**
-- Processos de ingestão, transformação e enriquecimento de dados
-- Arquitetura medallion **Bronze, Silver e Gold**
-- Integrações com **Azure, Databricks e Snowflake**
-- Código organizado, versionado e documentado
+- Bach data pipelines
+- Data ingestion, transformation and enrichment process
+- Bronze, Silver and Gold medallion architecture
+- Integreations with Azure, Databricks and Snowflake
+- COrganized, versioned and doumentation code
 
-## 🗂️ Estrutura do Branch
+## 🗂️ Brach Struture
 
 ```text
 🌿 branch - databricks
